@@ -2,7 +2,8 @@
 
 # 
 
-# Ferramenta com interface gráfica para otimizar PDFs processuais do sistema SAJ (Tribunal de Justiça), com foco em documentos jurídicos que precisam ser citados em petições e decisões.
+# Ferramenta com interface gráfica para otimizar PDFs processuais do sistema SAJ (Tribunal de Justiça), com foco em documentos jurídicos que precisam ser citados em petições, decisões e sentenças.
+# Além de economizar tokens junto ao agente de IA, realiza o pré-processamento com OCR e remove de ruídos como assinatura eletrônica, cabeçalhos e rodapés, contribuindo para maior concentração do agente no conteúdo jurídico do documento.
 
 # 
 
