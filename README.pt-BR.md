@@ -1,5 +1,7 @@
 **[Read in English 🇺🇸](README.md)**
 
+![Demonstração do Processador de PDF Jurídico](demo.gif)
+
 # Processador de PDF Jurídico
 
 Ferramenta com interface gráfica para otimizar PDFs processuais do sistema SAJ (Tribunal de Justiça), com foco em documentos jurídicos que precisam ser citados em petições, decisões e sentenças.

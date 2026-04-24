@@ -1,4 +1,5 @@
 **[Leia em Português 🇧🇷](README.pt-BR.md)**
+![Demo of the Legal PDF Processor in action](demo.gif)
 
 # Legal PDF Processor
 
